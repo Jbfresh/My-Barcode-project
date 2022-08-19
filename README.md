@@ -29,7 +29,7 @@ My screenshot for the barcode project.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://https://jbfresh.github.io/My-Barcode-project.com)
 
 ## My process
 Hi everyone I'll elaborate the steps I took towards completing my project in this paragraph.
@@ -65,7 +65,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [AbdulJabbar Shuayb](https://www.your-site.com)
+- Website - [AbdulJabbar Shuayb](https://www.https://jbfresh.github.io/My-Barcode-project.com)
 - Frontend Mentor - [@Jbfresh](https://www.frontendmentor.io/profile/Jbfresh
 
 ## Acknowledgments
