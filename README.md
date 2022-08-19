@@ -23,14 +23,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-(/Barcode-Project.png)
+(Barcode-Project.png)
 My screenshot for the barcode project.
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://https://jbfresh.github.io/My-Barcode-project/)
-
+- Live Site URL: [Add live site URL here][https://https://jbfresh.github.io/My-Barcode-project/]
 ## My process
 Hi everyone I'll elaborate the steps I took towards completing my project in this paragraph.
 I commenced with the creation of the html page using the startup file that came along with the project, then I embedded the style into the html page. From then on I placed the tags for each element I was making use of, starting with the div with class "container" which houses the img, h3 and p respectively. Aligning my elements in this format enabled the sequential order with which they appear on the web page, so aligning your elements according to how you want them to appear is necessary, although the styling can play an effect with the alignment, but to be on a safer side I chose this format. You'll also see added therein is my image link which enables the of the image which I had to style to fit it in accurately into the container.
@@ -65,8 +64,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [AbdulJabbar Shuayb](https://www.https://jbfresh.github.io/My-Barcode-project/)
-- Frontend Mentor - [@Jbfresh](https://www.frontendmentor.io/profile/Jbfresh
+- Website - [AbdulJabbar Shuayb][https://www.https://jbfresh.github.io/My-Barcode-project/]
+- Frontend Mentor - [@Jbfresh]https://www.frontendmentor.io/profile/Jbfresh
 
 ## Acknowledgments
 
