@@ -64,7 +64,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [AbdulJabbar Shuayb][https://www.https://jbfresh.github.io/My-Barcode-project/]
+- Website - [AbdulJabbar Shuayb][https://jbfresh.github.io/My-Barcode-project/]
 - Frontend Mentor - [@Jbfresh]https://www.frontendmentor.io/profile/Jbfresh
 
 ## Acknowledgments
